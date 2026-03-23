@@ -28,5 +28,7 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ```
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/944b20cb-654e-49d5-8a95-203f9aeaa670)
 
 ### RESULT
+Thus the program to define a function that accepts two values and returns their modulo value has been implemented and executed successfully.
